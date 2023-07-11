@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    text: work for you with you
     button: Tell Me More
     buttonlink: "#services"
 
